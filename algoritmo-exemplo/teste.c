@@ -7,5 +7,7 @@ int main(){
         printf("\n%d", i+1);
     }
     printf("\n\nTUFF");
+
+    printf("\n\n67");
     return 0;
 }

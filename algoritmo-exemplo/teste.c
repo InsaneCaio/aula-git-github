@@ -6,5 +6,6 @@ int main(){
     for(int i = 0; i < 10; i++){
         printf("\n%d", i+1);
     }
+    printf("\n\nTUFF");
     return 0;
 }

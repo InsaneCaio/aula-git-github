@@ -2,7 +2,7 @@
 
 int main(){
     printf("TUFF DA SILVA");
-    for(int i = 0; i < 10; i++){
-        printf("\n67");
-    }
+    printf("\nEssas proximas linhas talvez deem erro no merge");
+    printf("\nEssa");
+    printf("\nEssa tbm");
 }
